@@ -33,4 +33,4 @@ This project focuses on predicting Tesla stock prices using machine learning tec
 ## 📉 **Conclusion**
 
 The project aims to leverage machine learning techniques to predict Tesla stock prices. Despite efforts in feature engineering and model training, the accuracy achieved by the models may not exceed random guessing. Future improvements may involve acquiring more data or exploring advanced modeling techniques.
-
+ 
